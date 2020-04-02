@@ -1,5 +1,5 @@
 # recommendSearch
-##SpringBoot搭建JavaWeb前后端，ES实现搜索服务，Spark Mllib实现推荐系统
+#SpringBoot搭建JavaWeb前后端，ES实现搜索服务，Spark Mllib实现推荐系统
 1. 利用SpringBoot及Mybatis框架搭建JavaWeb工程，MySQL做数据库，druid做数据库连接池
 2. 用户服务，运营后台服务及商户服务的后端模块设计搭建
 3. 封装通用返回和通用异常； Spring AOP捕获异常并进行统一异常处理及进行鉴权接入管理
